@@ -1,0 +1,8 @@
+[package]
+name = "clips6_core"
+version = "0.1.0"
+authors = ["Vladimir Ulogov <33033499+vulogov-placeiq@users.noreply.github.com>"]
+
+build = "build.rs"
+
+[dependencies]
